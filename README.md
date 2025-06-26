@@ -20,7 +20,7 @@
 src/
 ├── run.py           # Точка входа, orchestration
 ├── server.py        # WebSocket-сервер
-├── auto_worker.py        # Обработчик аудио (воркер)
+├── audio_worker.py        # Обработчик аудио (воркер)
 ├── ipc.py           # IPC: очереди, структуры обмена
 ```
 
